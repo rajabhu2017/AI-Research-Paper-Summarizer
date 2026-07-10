@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "paper_text",
+        "style_input",
+        "length_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "You are an expert research assistant.\n\nAnalyze the following research paper.\n\nResearch Paper:\n{paper_text}\n\nExplanation Style: {style_input}\nExplanation Length: {length_input}\n\nYour response must include:\n1. Objective of the paper\n2. Problem being solved\n3. Methodology\n4. Mathematical concepts (if any)\n5. Key findings\n6. Advantages\n7. Limitations\n8. Real-world applications\n9. Explain difficult concepts using simple analogies.\n\nIf any information is unavailable, write 'Insufficient information available' instead of guessing.",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
