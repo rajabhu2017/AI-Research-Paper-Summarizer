@@ -112,18 +112,6 @@ The application will open in your default web browser.
 
 ---
 
-##  Screenshots
-
-Add screenshots of the application here.
-
-Example:
-
-```
-assets/
-    home_page.png
-    summary_output.png
-```
-
 ---
 
 ##  Future Improvements
