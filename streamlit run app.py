@@ -12,7 +12,7 @@ llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash"
 )
 
-st.title("📚 AI Research Paper Summarizer")
+st.title(" AI Research Paper Summarizer")
 
 # Upload PDF
 uploaded_file = st.file_uploader(
@@ -47,7 +47,7 @@ template = load_prompt("template1.json")
 # If PDF uploaded
 if uploaded_file is not None:
 
-    st.success("✅ PDF uploaded successfully!")
+    st.success("PDF uploaded successfully!")
 
     # Read PDF
     reader = PdfReader(uploaded_file)
