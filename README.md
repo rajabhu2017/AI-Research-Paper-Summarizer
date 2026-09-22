@@ -1,24 +1,24 @@
 # AI-Research-Paper-Summarizer
 An AI-powered web application that summarizes research papers using **Google Gemini** and **LangChain**. Users can choose a research paper, select their preferred explanation style and summary length, and receive an AI-generated summary through an interactive Streamlit interface.
 
-## 🚀 Features
+##  Features
 
-- 📄 Summarizes research papers using Google Gemini
-- 🎯 Multiple explanation styles:
+-  Summarizes research papers using Google Gemini
+-  Multiple explanation styles:
   - Beginner-Friendly
   - Technical
   - Code-Oriented
   - Mathematical
-- 📏 Adjustable summary length:
+-  Adjustable summary length:
   - Short
   - Medium
   - Long
-- ⚡ Interactive Streamlit web interface
-- 🔗 Prompt management using LangChain Prompt Templates
+-  Interactive Streamlit web interface
+-  Prompt management using LangChain Prompt Templates
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - Streamlit
@@ -28,7 +28,7 @@ An AI-powered web application that summarizes research papers using **Google Gem
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Research-Paper-Summarizer/
@@ -43,7 +43,7 @@ Research-Paper-Summarizer/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -91,7 +91,7 @@ You can generate an API key from Google AI Studio.
 
 ---
 
-## ▶️ Run the Application
+##  Run the Application
 
 ```bash
 streamlit run app.py
@@ -101,7 +101,7 @@ The application will open in your default web browser.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. Select a research paper.
 2. Choose the explanation style.
@@ -112,7 +112,7 @@ The application will open in your default web browser.
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Add screenshots of the application here.
 
@@ -126,7 +126,7 @@ assets/
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Upload and summarize custom PDF research papers
 - Question Answering (QA) on uploaded papers
@@ -138,7 +138,7 @@ assets/
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 This project helped me learn:
 
@@ -151,15 +151,8 @@ This project helped me learn:
 
 ---
 
-## 👨‍💻 Author
 
-**Raja**
-
-MBA Student | AI & Data Analytics Enthusiast
-
----
-
-## ⭐ Acknowledgements
+##  Acknowledgements
 
 - LangChain
 - Google Gemini
